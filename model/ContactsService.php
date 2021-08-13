@@ -1,5 +1,7 @@
 <?php
 
+// testando vscode online no github
+
 require_once 'ContactsGateway.php';
 require_once 'ValidationException.php';
 require_once 'Database.php';
